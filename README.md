@@ -6,6 +6,9 @@
 ## Results:
 
 - The results showed a data set of about 300,024 rows of distinct employees data.
+
+![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/distinct%20rows%20of%20emp%20data.png)
+
 - This data set contains about 41,380 eligible retirees.
 - There are 1549 mentorship eligible employees born in the year 1965 alone.
 
@@ -32,4 +35,4 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 ![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
 
-![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Pyber%20Ride%20Summary.png)
+
