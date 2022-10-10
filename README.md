@@ -9,7 +9,7 @@
 - This data set contains about 41,380 eligible retirees.
 - There are 1549 mentorship eligible employees born in the year 1965 alone.
 
-![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/mentorship%20eligible%20all%20yrs.png))
+![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/mentorship%20eligible%201965.png))
 
 - There are 240,124 mentorship eligible employees born between the the period 1952-01-01 to 1965-12-31 and have a to date of 9999-01-01
 
