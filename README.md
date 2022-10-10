@@ -20,3 +20,7 @@ How many roles will need to be filled as the "silver tsunami" begins to make an 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 -There are 85,108 employees eligible for retirement because thier to_date is not equal to 9999-01-01 
+
+![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
+
+![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Pyber%20Ride%20Summary.png)
