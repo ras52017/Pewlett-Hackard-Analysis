@@ -10,7 +10,10 @@
 - There are 1549 mentorship eligible employees born in the year 1965 alone.
 - There are 240,124 mentorship eligible employees born between the the period 1952-01-01 to 1965-12-31 and have a to date of 9999-01-01
 - There are 72,458 employees with birth years between 1952 and 1955 and also have a to_date of 1/1/9999 which indicates they are not due for retirement. 
+
 ![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png))
+
+
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
