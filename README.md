@@ -11,6 +11,19 @@
 - There are 240,124 mentorship eligible employees born between the the period 1952-01-01 to 1965-12-31 and have a to date of 9999-01-01
 - There are 72,458 employees with from and to dates between 1952 and 1955 and also have a to_date of 1/1/9999 which indicates they are not due for retirement. 
 
+
+
+
+
+Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+-There are 85,108 employees eligible for retirement because thier to_date is not equal to 9999-01-01 
+
 ![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png))
 
 ![image](https://github.com/ras52017/PyBer_Analysis/blob/main/analysis/Weekly%20Sum%20of%20Fares.png))
