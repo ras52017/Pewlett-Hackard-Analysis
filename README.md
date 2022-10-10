@@ -28,7 +28,7 @@ Summary: Provide high-level responses to the following questions, then provide t
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/mentorship%20eligible%20all%20yrs.png))
+![image](https://github.com/ras52017/Pewlett-Hackard-Analysis/blob/main/Data/roles%20to%20filled%20as%20the%20silver%20tsunami.png))
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
